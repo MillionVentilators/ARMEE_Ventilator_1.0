@@ -1,7 +1,7 @@
 # ARMEE_Ventilator_1.0
 
 (Unofficial) Latest documentation: 
-https://docs.google.com/document/d/1ZnPGnA-GKtFLsJEDVVLLKqNAKSk3q6F47YqvtuoJVXw/
+- https://docs.google.com/document/d/1ZnPGnA-GKtFLsJEDVVLLKqNAKSk3q6F47YqvtuoJVXw/
 
 Please see PDF files in Git repo for recommended documentation releases.
 
@@ -14,9 +14,9 @@ This is not a medical device, and is not intended to be used as part of a medica
 ## COPYRIGHT AND LICENSE
 
 Copyright 2020 
-Ryan Whitney M.ryan.whitney@gmail.com (PEEP Loop Models)
-Alex Izvorski aizvorski@gmail.com (original dimensions/models)
-Chris Jung Chris@braeburnacoustics.com (Machining models)
+- Ryan Whitney M.ryan.whitney@gmail.com (PEEP Loop Models)
+- Alex Izvorski aizvorski@gmail.com (original dimensions/models)
+- Chris Jung Chris@braeburnacoustics.com (Machining models)
 
 This Source (CAD files and other design materials) describes Open Hardware and is licensed under the CERN-OHL-S v2.
 
