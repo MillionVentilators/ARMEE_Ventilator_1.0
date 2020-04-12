@@ -15,8 +15,9 @@ This is not a medical device, and is not intended to be used as part of a medica
 
 Copyright 2020 
 - Ryan Whitney M.ryan.whitney@gmail.com (PEEP Loop Models)
-- Alex Izvorski aizvorski@gmail.com (original dimensions/models)
-- Chris Jung Chris@braeburnacoustics.com (Machining models)
+- Alex Izvorski aizvorski@gmail.com (Original Dimensions/Models)
+- Chris Jung Chris@braeburnacoustics.com (CNC Machining Models)
+- Arrtemio Mendoza artexmg@gmail.com (3D Printing Models)
 
 This Source (CAD files and other design materials) describes Open Hardware and is licensed under the CERN-OHL-S v2.
 
