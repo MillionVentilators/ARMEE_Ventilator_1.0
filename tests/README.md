@@ -1,6 +1,10 @@
 
 ## Tests
 
+These are WIP and are NOT considered sufficient for validation.  Merely for pulling useful test data.
+
+Please submit your data in Pull Requests to `/tests/<test_name>/results/<date>-<name>-<model>/` folder with whatever relevant data you'd like to submit and the context of your test described thoroughly in a Readme.txt file (we will be standardizing this more asap...)
+
 ### Enumeration Test
 
 Estimated Test time: 50-70 minutes:
