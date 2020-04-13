@@ -9,16 +9,16 @@ These serial numbers will be used to track items for global Quality-Assurance pu
 
 ## Message to Manufacturers
 
-If you are interested in creating ventilators based on the ARMEE Ventilator design: thank you - we greatly appreciate your interest in this design.
+If you are interested in creating ventilators based on the ARMEE Ventilator design: thank you - we greatly appreciate your help.
 
-We have the following general advice for you, but would welcome any discussion in our channel at HelpfulEngineering.com #project-oscillating-ventilator, or email at contact@armeevent.com.  We expect an influx of responses, but will try to compile answers to those here and in our [latest documentation](https://docs.google.com/document/d/1ZnPGnA-GKtFLsJEDVVLLKqNAKSk3q6F47YqvtuoJVXw)
+We have the following general advice for you, but would welcome any discussion in our channel at HelpfulEngineering.org #project-oscillating-ventilator, or email at contact@armeevent.com.  We expect an influx of responses, but will try to compile answers to those here and in our [latest documentation](https://docs.google.com/document/d/1ZnPGnA-GKtFLsJEDVVLLKqNAKSk3q6F47YqvtuoJVXw)
 Please check there before asking if you can, to help us respond to the most pressing new questions.
 
 ---
 
 First off, as said in the root of this Github repository, this is currently NOT a medical device and has no certification by any approving regulatory body in any country.  We do not assume any liability with these schematics nor offer any warranty.  If you build devices incorporating this design and use them for any application, it is up to you to verify the performance is suitable for your application and complies with all applicable laws.  Manufacturing this device in light of this lack of regulatory approval is a risky act, and we do not ask any manufacturer to do it.
 
-In light of this, if you want to help but are not comfortable manufacturing yet on your own, we recommend you look out to your regional authorities for regulatory approval, look to this repo for more info, updates on testing confidence, and design updates - or visit us in our discussion channel at HelpfulEngineering.com #project-oscillating-ventilator.  In the meantime, the best thing you can do is prepare production, familiarizing yourself with the processes involved, testing first prints, and coordinating production estimates with your local authorities.  Be ready for their go-ahead, should your country/state need the supplies.
+In light of this, if you want to help but are not comfortable manufacturing yet on your own, we recommend you look out to your regional authorities for regulatory approval, look to this repo for more info, updates on testing confidence, and design updates - or visit us in our discussion channel at HelpfulEngineering.org #project-oscillating-ventilator.  In the meantime, the best thing you can do is prepare production, familiarizing yourself with the processes involved, testing first prints, and coordinating production estimates with your local authorities.  Be ready for their go-ahead, should your country/state need the supplies.
 
 To help regulators, we offer a repository of accumulated test data to help build confidence in these designs, but ultimately it will be up to each individual manufacturer and their governing regulatory body to decide for themselves what is an acceptable liability risk.  We offer usage instructions to help minimize that risk and suggestions for equipment that might accompany this device, along with schematics and videos where appropriate.  We offer documentation, though this is still a work-in-progress and should always be considered inferior to real-life test data with a working model by a medical professional in a proper testing environment. 
 
