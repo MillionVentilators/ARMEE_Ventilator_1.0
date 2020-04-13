@@ -6,6 +6,8 @@ We ask that any producer of one of these devices please accompany each model wit
 
 These serial numbers will be used to track items for global Quality-Assurance purposes as they go through testing or use in medical systems.  Failure to uniquely register your serial number may cause rejection of the device, so be sure to check that yours has not been registered already or uses an invalid format.  Public contact info is suggested but not required.  (You will need to share that with hospitals though, should you be providing your devices to them)
 
+At this stage also please inscribe "DEMONSTRATION ONLY" on all produced devices.
+
 
 ## Message to Manufacturers
 
