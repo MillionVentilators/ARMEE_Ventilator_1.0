@@ -1,0 +1,3 @@
+# ARMEE PEEP Loop
+
+This modification of the original 1965 US Army design adds a "PEEP Loop" to the right control channel, using pressure from the source air input to control switches from exhalation to inhalation, rather than atmospheric pressure.  This allows us to have positive PEEP switching pressures rather than low-to-negative switching like in the original version - which is reportedly harmful for COVID-19 patients.

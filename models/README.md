@@ -1,4 +1,10 @@
-# Manufacturing
+# Models
+
+## Stable vs Experimental
+
+While we can't give guarantees on any of the models present here, we present the "stable" release as our best foot forward for those looking for the most progress towards a realistic working design.  These designs are unlikely to change dramatically from their existing files other than receiving new implementations for different manufacturing methods.  We will attempt to characterize each design's shortcomings to assist decision makers on where to direct their resources.
+
+"Experimental" is for work-in-progress designs which may require more iteration, and are not ready for manufacturing-implementation-specific iterating and documentation yet.
 
 ## Serial Numbers
 
