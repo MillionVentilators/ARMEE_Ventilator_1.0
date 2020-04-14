@@ -3,7 +3,8 @@
 (Unofficial) Latest documentation: 
 - https://docs.google.com/document/d/1ZnPGnA-GKtFLsJEDVVLLKqNAKSk3q6F47YqvtuoJVXw/
 
-Please see PDF files in Git repo for recommended documentation releases.
+Jump to our (Latest Stable Release)[./models/stable/ARMEE_1.0] to get started.
+
 
 ---
 
