@@ -3,7 +3,7 @@
 (Unofficial) Latest documentation: 
 - https://docs.google.com/document/d/1ZnPGnA-GKtFLsJEDVVLLKqNAKSk3q6F47YqvtuoJVXw/
 
-Jump to our [Latest Stable Release](./models/stable/ARMEE_1.0) to get started.
+Jump to our [Latest Stable Release Candidate](./models/stable/ARMEE_1.0) to get started.
 
 
 ---
