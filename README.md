@@ -1,4 +1,4 @@
-# ARMEE_Ventilator_1.0
+# ARMEE Ventilator 1.0 (Alpha Release)
 
 (Unofficial) Latest documentation: 
 - https://docs.google.com/document/d/1ZnPGnA-GKtFLsJEDVVLLKqNAKSk3q6F47YqvtuoJVXw/
