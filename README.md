@@ -1,12 +1,36 @@
-# ARMEE Ventilator 1.0 (Alpha Release)
+# ARMEE Ventilator
+
+## INTRO
+
+This repository contains plans for a device which controls air (or gas) flow so that its output alternates between two pressure levels.  The pressures, flow rates and cycle times are similar to the typical output of a mechanical ventilator.  *It has no moving parts*, and could be produced very rapidly, at low cost and in very large numbers if needed.
+
+The original design dates to the early 1960s:
+* Hermann Ziermann. ["Fluid amplifier controlled respirator"](https://patents.google.com/patent/US3379194A/en). US Patent 3,379,194, 1968
+* J.W. Joyce, Jr. ["TM 68-30 The Army Emergency Respirator"](./research/1968_Army_Emergency_Respirator.pdf). Harry Diamond Labs, US Army Materiel Command, 1968
+
+We are working to modify it to make the output better match modern requirements.
+
+This is an open source hardware project: all work is licensed under the CERN Open Hardware Licence v2 (strongly reciprocal).
+
+
+## HOW TO CONTRIBUTE
+
+Get the necessary ["Equipment"](./documentation/Equipment.md): a source of compressed air, pressure and flow gauges and a test lung.
+
+Build one of the ["Models"](./models/), following the Build Instructions: the recommended method is to use a CNC mill to make this out of plastic, but feel free to experiment.
+
+Run some tests following the ["Test Instructions"](./documentation/Test_Instructions.md).
+
+Try to modify the design so as to address some of the ["Open Issues"](./documentation/Open_Issues.md).
+
+Participate in the discussion on ["Slack"](http://millionvents.slack.com).
+
+
+## MORE DOCUMENTATION
 
 (Unofficial) Latest documentation: 
 - https://docs.google.com/document/d/1ZnPGnA-GKtFLsJEDVVLLKqNAKSk3q6F47YqvtuoJVXw/
 
-Jump to our [Latest Stable Release Candidate](./models/stable/ARMEE_1.0) to get started.
-
-
----
 
 ## DISCLAIMER
 
