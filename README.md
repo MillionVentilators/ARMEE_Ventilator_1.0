@@ -15,15 +15,15 @@ This is an open source hardware project: all work is licensed under the CERN Ope
 
 ## HOW TO CONTRIBUTE
 
-Get the necessary ["Equipment"](./documentation/Equipment.md): a source of compressed air, pressure and flow gauges and a test lung.
+Get the necessary [Equipment](./documentation/Equipment.md): a source of compressed air, pressure and flow gauges and a test lung.
 
-Build one of the ["Models"](./models/), following the Build Instructions: the recommended method is to use a CNC mill to make this out of plastic, but feel free to experiment.
+Build one of the [Models](./models/), following the Build Instructions: the recommended method is to use a CNC mill to make this out of plastic, but feel free to experiment.
 
-Run some tests following the ["Test Instructions"](./documentation/Test_Instructions.md).
+Run some tests following the [Test Instructions](./documentation/Test_Instructions.md).
 
-Try to modify the design so as to address some of the ["Open Issues"](./documentation/Open_Issues.md).
+Try to modify the design so as to address some of the [Open Issues](./documentation/Open_Issues.md).
 
-Participate in the discussion on ["Slack"](http://millionvents.slack.com).
+Participate in the discussion on [Slack](http://millionvents.slack.com).
 
 
 ## MORE DOCUMENTATION
