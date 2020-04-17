@@ -15,6 +15,8 @@ These are expensive, typically > $2000 used.
 
 Suggested 2: Siargo FS6122 or certain Sensirion  / Honeywell sensors have the right specs, but are not easy to interface
 
+If gas flow analyzer is unavailable, a pressure gauge and flow gauge may be used as a substitute in a pinch.
+
 ## Pressure gauge
 
 Pressure gauge capable of measuring 0-50 cmH2O with <1 cmH2O accuracy
