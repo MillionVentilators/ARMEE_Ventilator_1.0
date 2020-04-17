@@ -5,7 +5,6 @@
 This repository contains plans for a device which controls air (or gas) flow so that its output alternates between two pressure levels.  The pressures, flow rates and cycle times are similar to the typical output of a mechanical ventilator.  *It has no moving parts*, and could be produced very rapidly, at low cost and in very large numbers if needed.
 
 The original design dates to the early 1960s:
-* Hermann Ziermann. ["Fluid amplifier controlled respirator"](https://patents.google.com/patent/US3379194A/en). US Patent 3,379,194, 1968
 * J.W. Joyce, Jr. ["TM 68-30 The Army Emergency Respirator"](./research/1968_Army_Emergency_Respirator.pdf). Harry Diamond Labs, US Army Materiel Command, 1968
 
 We are working to modify it to make the output better match modern requirements.
