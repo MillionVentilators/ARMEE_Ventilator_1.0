@@ -29,7 +29,9 @@ Note: these pressures are far too low for most pressure gauges, other than the g
 
 Flow gauge capable of measuring +-50 lpm air flow with <1 lpm accuracy.  (+-100lpm and <0.1 lpm accuracy is preferred) 
 
-Suggested: medical flow meter (combination rotameter and needle valve) eg Timeter, Amvex, Ohmeda brand - this is not ideal, but don't really have a recommendation for a good digital sensor yet.
+Suggested 1: medical flow meter (combination rotameter and needle valve) eg Timeter, Amvex, Ohmeda brand - this is not ideal, but don't really have a recommendation for a good digital sensor yet.
+
+Suggested 2: use a known resistance (~5mm hole in much larger tube) and differential pressure gauge from above to convert pressure drop to flow - also not ideal, have to always do math to convert.
 
 ## Test lung
 
