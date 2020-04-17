@@ -17,7 +17,7 @@ This is an open source hardware project: all work is licensed under the CERN Ope
 
 Get the necessary [Equipment](./documentation/Equipment.md): a source of compressed air, pressure and flow gauges and a test lung.
 
-Build one of the [Models](./models/), following the Build Instructions: the recommended method is to use a CNC mill to make this out of plastic, but feel free to experiment.
+Build one of the [Models](./models/), following the [Build Instructions](./documentation/Build_Instructions.md): the recommended method is to use a CNC mill to make this out of plastic, but feel free to experiment.
 
 Run some tests following the [Test Instructions](./documentation/Test_Instructions.md).
 
