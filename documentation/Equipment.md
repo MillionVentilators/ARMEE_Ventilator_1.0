@@ -6,6 +6,9 @@ A source of pressurized air capable of 100 lpm (2 cfm) at 340 kPa (50 psi)
 
 Suggested: small oil-free air compressor, eg Porter Cable C2002
 
+Set the output of the compressor to a regulated 50psi, and connect a precision flow adjustment valve: McMaster-Carr 46425K12 or equivalent.
+
+
 ## Medical gas flow analyzer or ventilator tester
 
 Device intended for certifying performance of ventilators in hospitals; contains pressure, flow and gas composition sensors.
@@ -31,9 +34,9 @@ Note: these pressures are far too low for most pressure gauges, other than the g
 
 Flow gauge capable of measuring +-50 lpm air flow with <1 lpm accuracy.  (+-100lpm and <0.1 lpm accuracy is preferred) 
 
-Suggested 1: medical flow meter (combination rotameter and needle valve) eg Timeter, Amvex, Ohmeda brand - this is not ideal, but don't really have a recommendation for a good digital sensor yet.
+Suggested 1: medical flow meter (combination rotameter and needle valve) eg Timeter, Amvex, Ohmeda brand - this is not ideal, but don't really have a recommendation for a good digital sensor yet.  Most of these only span 0-15 lpm; may need more than one to cover 0-15 and 0-50 ranges.
 
-Suggested 2: use a known resistance (~5mm hole in much larger tube) and differential pressure gauge from above to convert pressure drop to flow - also not ideal, have to always do math to convert.
+Suggested 2: use a known resistance (~5mm hole in much larger tube) and differential pressure gauge from above to convert pressure drop to flow - also not ideal, have to always do math to convert, flow is proportional to square root of pressure drop.
 
 ## Test lung
 
