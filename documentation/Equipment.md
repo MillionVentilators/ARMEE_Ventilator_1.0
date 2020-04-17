@@ -42,4 +42,4 @@ Suggested 2: use a known resistance (~5mm hole in much larger tube) and differen
 
 A lung simulator with known (and preferably adjustable) resistance and compliance, within the range of C20-C50 ml/cmH2O and R5-R20 cmH2O/(liter/second).
 
-Suggested: follow directions in this article [How To Make Your Own Accurate Test Lungs](https://medium.com/@RobertLeeRead/how-to-make-your-own-accurate-test-lungs-for-testing-emergency-ventilators-2d68fe5ac460)
+Suggested: rigid vessel 30-70 liters (7.5-19 gallons) in size, with an entry opening restricted to 5-8mm in diameter.  Follow directions in this article [How To Make Your Own Accurate Test Lungs](https://medium.com/@RobertLeeRead/how-to-make-your-own-accurate-test-lungs-for-testing-emergency-ventilators-2d68fe5ac460)
