@@ -1,5 +1,7 @@
 # Build instructions
 
+## CNC
+
 The device is constructed from 1/4" polycarbonate sheet stock, McMaster-Carr 8574K172 or equivalent.
 (Note: some models use 3/8" or 1/2" inch sheet stock; acrylic may be used instead of polycarbonate)
 
@@ -18,3 +20,7 @@ McMaster-Carr 92605A100
 
 Input fitting: Stainless Steel Barbed Tube Fitting, 4mm Tube ID, M6 x 1 mm Male
 McMaster-Carr 4406T772
+
+## 3D printing
+
+The same geometry can be printed using SLA for prototyping (eg on a Form 3 printer).  SLS and MJF *may* work but the tolerances are about 5x what is needed, and the surface roughness is much greater as well.  FDM is probably not suitable due to the tolerances needed. 
