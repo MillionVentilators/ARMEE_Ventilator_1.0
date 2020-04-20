@@ -14,7 +14,7 @@ Make sure that there are no burrs left, and the face which will be joined to the
 
 Clean and degrease the mating surfaces thoroughly.
 
-Spread a thin, uniform layer of water-thin acrylic solvent cement: IPS Weld-On 3, SciGrip 3, McMaster-Carr 7528A13 or equivalent, on the entire cover piece, then press the base piece onto it with the channels pointed DOWN (so that the solvent doesn't drip into the channels).  Clamp with 200 lb force.  Let sit for 30 minutes while keeping the channels pointed down.  Do this step in a fume hood as the solvent cement is toxic if inhaled.  Full joint strength requires >24 hours.
+Spread a thin, uniform layer of water-thin acrylic solvent cement: IPS Weld-On 3, SciGrip 3, McMaster-Carr 7528A13 or equivalent, on the entire cover piece, then press the base piece onto it with the channels pointed DOWN (so that the solvent doesn't drip into the channels).  Clamp with 200 lb force.  Let sit for 30 minutes while keeping the channels pointed down the whole time.  Do this step in a fume hood as the solvent cement is toxic if inhaled.  Full joint strength requires >24 hours.
 
 Inspect the weld.  The weld should be essentially invisible; there may be a few bubbles, and a bit of squeeze-out at the edges of the channels, but there should be no large voids allowing leakage between channels, and no voids near the power nozzle/main jet.
 
