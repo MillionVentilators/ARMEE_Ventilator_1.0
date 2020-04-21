@@ -19,15 +19,16 @@ Spread a thin, uniform layer of water-thin acrylic solvent cement: IPS Weld-On 3
 Inspect the weld.  The weld should be essentially invisible; there may be a few bubbles, and a bit of squeeze-out at the edges of the channels, but there should be no large voids allowing leakage between channels, and no voids near the power nozzle/main jet.
 
 Adjustment screws:  
-Stainless Steel Flat-Tip Set Screws, 4-40, 1/4" long, McMaster-Carr 94355A140
-Stainless Steel Flat-Tip Set Screws, 1/4-28, 1/4" long, McMaster-Carr 94355A602
+- Stainless Steel Flat-Tip Set Screws, 4-40, 1/4" long, McMaster-Carr 94355A140
+- Stainless Steel Flat-Tip Set Screws, 1/4-28, 1/4" long, McMaster-Carr 94355A602
 
 Output fittings:    
-Plastic Barbed Tube Fitting, 3/4 NPT x 3/4 barb, nylon, McMaster-Carr 5372K133 or 53415K217	
+- Plastic Barbed Tube Fitting, 3/4 NPT x 3/4 barb, nylon, McMaster-Carr 5372K133 or 53415K217	
+
 These can be connected to 22mm tapered fittings common in respiratory care with short pieces of 3/4 silicone tubing, McMaster-Carr 5236K527.
 
 Input and side vent: 
-Plastic Barbed Tube Fitting, 1/4 NPT x 1/4 barb, nylon, McMaster-Carr 5372K112 or 5121K451
+- Plastic Barbed Tube Fitting, 1/4 NPT x 1/4 barb, nylon, McMaster-Carr 5372K112 or 5121K451
 (side vent may be optionally connected to 1/4 NPT x 3/4 barb, McMaster-Carr 5372K122)
 
 Note: NPT fittings are typically seated to a depth of 4mm (finger tight) to 7mm (maximum, requires wrench).  Make sure they are not seated deep enough to block the channels; if using 1/4 sheet stock, the maximum depth is 4mm.
