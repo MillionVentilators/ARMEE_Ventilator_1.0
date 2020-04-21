@@ -1,6 +1,6 @@
 # Build instructions
 
-These instructions are common for the models in Harry_Diamond_DFM, Loop_PEEP_3Way and Valve_PEEP.
+These instructions are common for the models in Harry_Diamond_DFM, Loop_PEEP_3Way and Exhaust_PEEP.
 
 ## CNC
 
