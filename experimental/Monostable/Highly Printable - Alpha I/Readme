@@ -1,7 +1,7 @@
 READ THIS BEFORE ANYTHING, you will need it!
 Prepared by Artemio Mendoza
 
-Befor we start, let me say that THIS VENTILATOR IS NOT A MEDICAL EQUIPMENT, it is NOT INTENTED TO BE USED IN HUMAN PATIENTS.
+Before we start, let me say that THIS VENTILATOR IS NOT A MEDICAL EQUIPMENT, it is NOT INTENTED TO BE USED IN HUMAN PATIENTS.
 
 This is a single piece ventilator (unibody). It is highly printable using either FDM or SLA 3D printers.
 
@@ -19,12 +19,12 @@ In order to print a single body ventilator using a FDM I developed a technique I
 It consists in pre-printing a flat support to be placed manually latter in the print to scaffold the next layer. 
 Such a layer will become the ceiling of the print.
 
-In order to place the printed support (or patch) you will need to stop the print, place the patch and continue printing after that. 
-It can be achieved modifying the Gcode, either manually or by script in your slicing software.
+In order to place the printed support (or patch) you will need to stop the print, place the patch manually and then 
+continue printing from where it stopped. This can be achieved modifying the Gcode either manually or by script 
+in your slicing software. You would find the document "eZ-bridging.doc" usefull to get more details on this technique.
 
-You would find the document "eZ-bridging.doc" usefull to get more details on this technique.
-It is simpler than you think and once you get the hang of it, you will be able to bridge other pieces you always wanted, 
-even if your printer is not well calibrated for bridging. Heck, even if it is not calibrated at all!
+It is simpler than you think and once you get the hang of it, you will be able to bridge other pieces you always wanted to print, 
+but you cannot because your printer did not like bridging. Now she will like bridging.
 
 2.- Two parts version:
 
