@@ -20,6 +20,8 @@ Get the necessary [Equipment](./documentation/Equipment.md): a source of compres
 
 Build one of the [Stable Models](./stable/), following the [Build Instructions](./documentation/Build_Instructions.md): the recommended method is to use a CNC mill to make this out of plastic, but feel free to experiment.
 
+The [Monostable](./experimental/Monostable) design is currently the most promising model, with results close to target parameters and very stable switching.  Check it out.
+
 Run some tests following the [Test Instructions](./documentation/Test_Instructions.md).
 
 Try to modify the design so as to address some of the [Open Issues](./documentation/Open_Issues.md).
