@@ -1,6 +1,6 @@
 # ARMEE Ventilator
 
-www.ARMEEVent.com
+www.ARMEEVentilator.com
 
 ## INTRO
 
