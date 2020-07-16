@@ -2,6 +2,8 @@
 
 www.ARMEEVentilator.com
 
+[![ARMEE Ventilator Introduction](https://img.youtube.com/vi/14Afl-Eg2tM/0.jpg)](https://www.youtube.com/watch?v=14Afl-Eg2tM "ARMEE Ventilator Introduction")
+
 ## INTRO
 
 This repository contains plans for a device which controls air (or gas) flow so that its output alternates between two pressure levels.  The pressures, flow rates and cycle times are similar to the typical output of a mechanical ventilator.  *It has no moving parts*, and could be produced very rapidly, at low cost and in very large numbers if needed.
@@ -26,12 +28,12 @@ Run some tests following the [Test Instructions](./documentation/Test_Instructio
 
 Try to modify the design so as to address some of the [Open Issues](./documentation/Open_Issues.md).
 
-Participate in the discussion on [Slack](http://millionvents.slack.com).
+Participate in the discussion on [Helpful Engineering](http://helpfulengineering.slack.com) at #project-oscillating-ventilator or our [Slack](http://millionvents.slack.com).
 
 
 ## MORE DOCUMENTATION
 
-(Unofficial) Latest documentation: 
+(Now somewhat outdated) documentation: 
 - https://docs.google.com/document/d/1ZnPGnA-GKtFLsJEDVVLLKqNAKSk3q6F47YqvtuoJVXw/
 
 
