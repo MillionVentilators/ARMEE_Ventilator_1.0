@@ -6,6 +6,7 @@ www.ARMEEVentilator.com (previously www.ARMEEVent.com)
 
 Email: ArmyVent@gmail.com
 
+Introduction: (click for video)
 [![ARMEE Ventilator Introduction](https://img.youtube.com/vi/14Afl-Eg2tM/0.jpg)](https://www.youtube.com/watch?v=14Afl-Eg2tM "ARMEE Ventilator Introduction")
 
 ## INTRO
